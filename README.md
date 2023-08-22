@@ -1,4 +1,4 @@
-# kimmochi Tool 🚀
+# <i>kimmochi Tool 🚀<i>
 # <b> Tool created by: Mr Q <b>
 <div align=center>
  <p>
