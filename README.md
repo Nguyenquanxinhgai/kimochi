@@ -1,5 +1,5 @@
 # kimmochi Tool 🚀
-# Tool created by: Mr Q
+# <b> Tool created by: Mr Q <b>
 <div align=center>
  <p>
  <img src="https://img.shields.io/github/stars/cutipu/HASOKI?color=%23DF0067&style=for-the-badge"/> &nbsp;
