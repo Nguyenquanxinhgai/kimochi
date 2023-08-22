@@ -1,7 +1,6 @@
 # kimmochi Tool 🚀
 # Tool created by: Mr Q
 <div align=center>
-<p align="center"><img src="https://www.linkpicture.com/q/hasoki.jpg" width="800px" height="200px" alt="ddos"></p>
  <p>
  <img src="https://img.shields.io/github/stars/cutipu/HASOKI?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/cutipu/HASOKI?color=%239999FF&style=for-the-badge"/> &nbsp;
